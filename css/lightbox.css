@@ -108,7 +108,7 @@ body:after {
 .lb-nav a.lb-prev {
     width: 5em;
     float: left;
-    background:url(../images/img-sprite.png) 30px 48% no-repeat;
+    background:url(../images/img-sprite.png) 35px 48% no-repeat;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
     -webkit-transition: opacity 0.6s;
